@@ -1,0 +1,13 @@
+[
+  {
+    "company": "Example Co",
+    "title": "Software Engineering Intern",
+    "job_url": "https://example.com/jobs/123",
+    "category": "strong_fit",
+    "discovered_at": "YYYY-MM-DDTHH:MM:SSZ",
+    "applied_at": null,
+    "status": "shortlisted",
+    "resume_artifact": null,
+    "notes": ""
+  }
+]
