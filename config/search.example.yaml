@@ -1,0 +1,31 @@
+target_terms:
+  - "summer_2027"
+  - "may_2027"
+
+primary_roles:
+  - "software engineer intern"
+  - "software developer intern"
+  - "backend intern"
+  - "systems intern"
+  - "infrastructure intern"
+  - "platform engineering intern"
+  - "AI software engineering intern"
+
+stretch_roles:
+  - "quantitative developer intern"
+  - "trading systems intern"
+  - "machine learning engineer intern"
+  - "security engineer intern"
+
+locations:
+  - "Toronto"
+  - "Canada"
+  - "Remote"
+
+exclude:
+  - "unpaid"
+  - "volunteer"
+  - "senior"
+  - "staff"
+
+# Copy to config/search.yaml in the private repo and customize.
