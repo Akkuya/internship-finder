@@ -1,0 +1,32 @@
+# Private candidate data
+profile/PROFILE.md
+profile/resume.*
+profile/*.pdf
+profile/*.tex
+
+# Application state
+data/applications.json
+data/listings*.json
+data/accounts.json
+accounts.json
+applications.json
+
+# Generated artifacts
+output/
+resumes/
+raw-resumes/
+compiled-resumes/
+confirmations/
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Local tooling
+.DS_Store
+__pycache__/
+.venv/
+node_modules/
